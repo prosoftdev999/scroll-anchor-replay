@@ -1,0 +1,30 @@
+artifacts = ["/app/output/recovered.json"]
+
+[task]
+name = "afterquery/scroll-anchor-replay"
+
+[metadata]
+author_name = "Thomas Morison"
+author_email = "matiasv931026@gmail.com"
+difficulty_explanation = "The difficult part is historical consistency across browser and renderer layers rather than parsing volume. Each incident frame must be reconciled with reusable handoff identities, an independent browser clock, speculative geometry branches, revocations, install barriers, parent-linked commit history, and aliases whose identity changes over commit sequence. Those branch effects feed the already historical virtual-list and compositor state, so a plausible early shortcut changes later marker geometry. The shipped evidence is synthetic but models the kind of support capture a browser/frontend performance engineer would investigate. A focused expert should be able to complete and cross-check the reconstruction in about 4 hours; the task does not require external services or undocumented browser internals."
+solution_explanation = "The reference derives every checkpoint from solver-visible capture records. It reconciles healthy release observations with historical renderer and browser state, resolves time-qualified identities and committed geometry lineage, applies that frame-local state to the virtualized list, and emits the requested artifact. The image retains reusable capture/replay primitives for low-level mechanics, but policy selection, control matching, scheduler-profile recovery, final frame-layout assembly, and speculative-geometry reconstruction are not provided as an agent-visible solution path."
+verification_explanation = "The verifier only parses /app/output/recovered.json and never executes agent-produced code. It enforces the documented schema, checkpoint order, identifier fields, and the stated 0.02 CSS-px tolerance. Fresh shortcut measurements on the shipped data all score 0: omitting speculative geometry changes 10/10 checkpoints with a 16.5 px maximum deviation; a direct/latest identity join changes 9/10 with an 8.0 px maximum deviation; choosing the most recently accepted speculative branch instead of the common committed prefix changes 3/10 with a 4.25 px maximum deviation; using final browser state at every frame changes 5/10 with a 4.0 px maximum deviation; and using renderer offers as the only authority changes 5/10 with an 8.0 px maximum deviation. The reference scores 1 and harmless JSON key order or equivalent numeric serialization remain accepted."
+category = "Software"
+subcategory = "Frontend"
+tags = ["virtualized-list", "scroll-anchoring", "compositor", "browser-telemetry"]
+expert_time_estimate_hours = 4.0
+relevant_experience = "Senior AI and Full-Stack Engineer with 10+ years building production web platforms, including hands-on work with React, Next.js, Angular, TypeScript, JavaScript, Redux, HTML5/CSS3, Node.js/Express, GraphQL, and reusable storefront UI components."
+
+[verifier]
+environment_mode = "separate"
+timeout_sec = 120
+
+[agent]
+timeout_sec = 7200
+
+[environment]
+build_timeout_sec = 600
+cpus = 2
+memory_mb = 4096
+storage_mb = 10240
+gpus = 0

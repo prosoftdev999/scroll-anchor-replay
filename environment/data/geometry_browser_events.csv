@@ -1,0 +1,14 @@
+session,broker_us,event_seq,handoff_token,generation,offer_seq,action
+s-z62,705891.960,1,hg-91,1,1,accept
+s-z62,728911.050,2,hg-91,1,2,accept
+s-z62,756934.290,3,hg-91,1,3,accept
+s-z62,758935.950,4,hg-91,1,3,revoke
+s-z62,762438.855,5,hg-91,1,2,revoke
+s-z62,773948.400,6,hg-a4,1,1,accept
+s-z62,808977.450,7,hg-a4,1,2,accept
+s-z62,833998.200,8,hg-a4,1,3,revoke
+s-z62,869027.250,9,hg-91,2,1,accept
+s-z62,881037.210,10,hg-91,2,2,accept
+s-z62,899052.150,11,hg-91,2,3,accept
+s-z62,919068.750,12,hg-91,2,3,revoke
+s-z62,949093.650,13,hg-f2,1,1,accept

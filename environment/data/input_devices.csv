@@ -1,0 +1,13 @@
+session,device_token,sample_mode,scale_token
+s-a41,dv-dda7dccd,incremental,is-e1076f41
+s-a41,dv-f271b827,cumulative,is-ed3c3ec0
+s-b07,dv-3d3a01f8,incremental,is-f45e7a31
+s-b07,dv-4b45dc78,cumulative,is-6175ad9e
+s-c93,dv-7f7eef02,incremental,is-b978812c
+s-c93,dv-8b019235,cumulative,is-acfb6a7d
+s-d55,dv-59317e36,incremental,is-cc3a2ec1
+s-d55,dv-2bd3d5b6,cumulative,is-8fed53eb
+s-e18,dv-cf359c12,incremental,is-0c1d2f84
+s-e18,dv-ba5b5e64,cumulative,is-864868b6
+s-z62,dv-7108bfd2,incremental,is-162e14ca
+s-z62,dv-efc4b055,cumulative,is-ec173522

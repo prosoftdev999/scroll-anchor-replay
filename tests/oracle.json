@@ -1,0 +1,125 @@
+{
+  "schema_version": 3,
+  "checkpoints": [
+    {
+      "checkpoint_id": "s-z62-c01",
+      "scroll_top_css": 355.5,
+      "paint_frame": "pf-4c57",
+      "tree_revision": 4,
+      "visual_scroll_css": 359.5,
+      "marker_item": "s-z62-7ea5c9b5",
+      "marker_offset_css": 61.25,
+      "render_commit": "jm-a44afc8d",
+      "pending_input_css": 23.0,
+      "effective_scroll_css": 83.75
+    },
+    {
+      "checkpoint_id": "s-z62-c02",
+      "scroll_top_css": 265.5,
+      "paint_frame": "pf-7ea1",
+      "tree_revision": 4,
+      "visual_scroll_css": 358.25,
+      "marker_item": "s-z62-7ea5c9b5",
+      "marker_offset_css": 59.0,
+      "render_commit": "jm-b7ea0968",
+      "pending_input_css": 7.5,
+      "effective_scroll_css": 58.5
+    },
+    {
+      "checkpoint_id": "s-z62-c03",
+      "scroll_top_css": 428.25,
+      "paint_frame": "pf-4ec5",
+      "tree_revision": 11,
+      "visual_scroll_css": 456.75,
+      "marker_item": "s-z62-864f18bf",
+      "marker_offset_css": 24.25,
+      "render_commit": "jm-ec3d1820",
+      "pending_input_css": 22.25,
+      "effective_scroll_css": 93.25
+    },
+    {
+      "checkpoint_id": "s-z62-c04",
+      "scroll_top_css": 504.25,
+      "paint_frame": "pf-81c3",
+      "tree_revision": 11,
+      "visual_scroll_css": 453.75,
+      "marker_item": "s-z62-864f18bf",
+      "marker_offset_css": 25.75,
+      "render_commit": "jm-51356431",
+      "pending_input_css": 40.5,
+      "effective_scroll_css": 97.75
+    },
+    {
+      "checkpoint_id": "s-z62-c05",
+      "scroll_top_css": 704.5,
+      "paint_frame": "pf-4ffc",
+      "tree_revision": 16,
+      "visual_scroll_css": 496.0,
+      "marker_item": "s-z62-b7cc927e",
+      "marker_offset_css": 22.0,
+      "render_commit": "jm-29b5129d",
+      "pending_input_css": 13.5,
+      "effective_scroll_css": 85.75
+    },
+    {
+      "checkpoint_id": "s-z62-c06",
+      "scroll_top_css": 722.5,
+      "paint_frame": "pf-84e5",
+      "tree_revision": 20,
+      "visual_scroll_css": 734.5,
+      "marker_item": "s-z62-a637690b",
+      "marker_offset_css": 8.75,
+      "render_commit": "jm-250da026",
+      "pending_input_css": 49.75,
+      "effective_scroll_css": 97.75
+    },
+    {
+      "checkpoint_id": "s-z62-c07",
+      "scroll_top_css": 512.75,
+      "paint_frame": "pf-53a1",
+      "tree_revision": 29,
+      "visual_scroll_css": 487.5,
+      "marker_item": "s-z62-9d60b70f",
+      "marker_offset_css": 47.25,
+      "render_commit": "jm-6a8b6d06",
+      "pending_input_css": 20.25,
+      "effective_scroll_css": 94.25
+    },
+    {
+      "checkpoint_id": "s-z62-c08",
+      "scroll_top_css": 435.5,
+      "paint_frame": "pf-53a1",
+      "tree_revision": 29,
+      "visual_scroll_css": 487.5,
+      "marker_item": "s-z62-9d60b70f",
+      "marker_offset_css": 47.25,
+      "render_commit": "jm-6a8b6d06",
+      "pending_input_css": 20.25,
+      "effective_scroll_css": 94.25
+    },
+    {
+      "checkpoint_id": "s-z62-c09",
+      "scroll_top_css": 435.5,
+      "paint_frame": "pf-8998",
+      "tree_revision": 33,
+      "visual_scroll_css": 444.75,
+      "marker_item": "s-z62-b7cc927e",
+      "marker_offset_css": 18.0,
+      "render_commit": "jm-1611b390",
+      "pending_input_css": 35.5,
+      "effective_scroll_css": 82.25
+    },
+    {
+      "checkpoint_id": "s-z62-c10",
+      "scroll_top_css": 439.25,
+      "paint_frame": "pf-5746",
+      "tree_revision": 43,
+      "visual_scroll_css": 465.5,
+      "marker_item": "s-z62-b7cc927e",
+      "marker_offset_css": 25.0,
+      "render_commit": "jm-1cf90ac3",
+      "pending_input_css": 25.25,
+      "effective_scroll_css": 82.25
+    }
+  ]
+}

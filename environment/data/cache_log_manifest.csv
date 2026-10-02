@@ -1,0 +1,3 @@
+file_name,capture_order,notes
+000271.log,1,retained-cache journal fragment
+000272.log,2,final fragment ends with a torn physical record after the last complete batch

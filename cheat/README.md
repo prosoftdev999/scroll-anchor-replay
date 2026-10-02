@@ -1,0 +1,1 @@
+This authoring-time adversarial shortcut emits the current schema but avoids the real reconstruction. It copies a healthy layout control by position, uses the first renderer frame and its directly linked scroll commit, and assumes no pending compositor input. The verifier must reject it. It is not copied into the agent environment.
